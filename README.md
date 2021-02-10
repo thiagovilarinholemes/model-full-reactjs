@@ -1,6 +1,6 @@
 # Model Full ReactJS
 
-Esté projeto tem por objetivo criar um modelo base para projetos ReactJS. Nele já está instalado o Material UI e o react-router-dom.
+Esté projeto tem por objetivo criar um modelo base para projetos ReactJS. Nele já estão instalados o Material UI e o react-router-dom.
 
 [![License](https://img.shields.io/github/license/thiagovilarinholemes/model-full-reactjs)](https://opensource.org/licenses/MIT)
 
@@ -25,4 +25,4 @@ npm install
 
 MIT [LICENSE](LICENSE)
 
-Autor: Thiago Vilarinho Lemes
+<i>Autor</i>: [Thiago Vilarinho Lemes](https://thiagolemes.tech/)
